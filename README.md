@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @francesco-paulis
+## 👋 Hi, I’m Francesco Paulis
 - 📊 I’m an aspirant data anayst
 - 🌱 I’m currently learning SQL, R, Python
   
