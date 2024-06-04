@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Francesco Paulis
-- 📊 I’m an aspirant data anayst
+- 📊 Data Analysis enthusiast
 - 🌱 I’m currently learning SQL, R, Python
   
 
